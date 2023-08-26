@@ -101,8 +101,8 @@ ul {
 /* -----------top banner---------- */
 
 .top-banner {
-  background-color: #4fb3d4;
-  background-image: url(./images/top-banner.jpeg);
+  background-color: var(--accent-color-dark);
+  background-image: url(./images/asset\ 32.png);
   background-size: 300px;
 }
 
